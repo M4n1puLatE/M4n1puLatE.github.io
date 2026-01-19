@@ -1,16 +1,38 @@
-## Hi there 👋
+# 更新信息
+> 版本：20260113.1
 
-<!--
-**M4n1puLatE/M4n1puLatE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 更新内容：更新了C语言的数据类型章节 (\*￣3￣)╭
 
-Here are some ideas to get you started:
+> 更新时间：2026年1月13日22:40:38
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ ## [文件格式](Format.md)
+
+
+# 目录
+## 1. 编程语言
+- ### [C](C/C.md)
+- ### [Java](JAVA/JAVA.md)
+
+---
+## 2. 操作系统
+
+---
+## 3. 网络通信
+- ### [网络通信（未校对版本）](互联网络通信/互联网络通信.md)
+
+---
+## 4. 数据库
+- ### [数据库1](_404.md)
+- ### [数据库2(下周考试)](数据库2/数据库2.md)
+---
+## 康的读书笔记（来和我学点看不懂的）
+- ## 这个懒狗其实还没开始看（/_ \\）
+- ### 但是既然你好奇
+- ### 那还是给你看看都有什么书罢
+- ## C++程序设计语言
+	- C++的创造者阐述自己的设计思路和C++语言的哲学
+- ## 系统架构师教程
+	- 想要一个证捏┗( T﹏T )┛
+- ## 数据库系统
+	- 在正经的数据库面前，我的数据库只能算是一个（超大停顿） 萝↑莉↓   （；´д｀）ゞ
