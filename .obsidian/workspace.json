@@ -186,11 +186,18 @@
   },
   "active": "41d8e66f1c4926b4",
   "lastOpenFiles": [
-    "_sidebar.md",
-    "_coverpage.md",
+    "primeddb/primeddb.md",
     "_navbar.md",
-    "Format.md",
     "README.md",
+    "LDST/ldst.md",
+    "_coverpage.md",
+    "LDST",
+    "primeddb",
+    "projects/primeddb",
+    "projects",
+    "_404.md",
+    "_sidebar.md",
+    "Format.md",
     "C/数据类型.md",
     "OOP/OOM.md",
     "OOP",
@@ -222,15 +229,7 @@
     "数据库2/quiz_questions.md",
     "数据库2/sample_quiz.html",
     "数据库2/Oracle体系结构.md",
-    "JAVA/JAVA.md",
-    "_404.md",
-    "().md",
-    "互联网络通信/互联网络通信.md",
     "数据库2/pic",
-    "数据库2/新建文件夹",
-    "数据库2",
-    "JAVA/pic",
-    "C/pic",
-    "互联网络通信/pic"
+    "数据库2/新建文件夹"
   ]
 }
