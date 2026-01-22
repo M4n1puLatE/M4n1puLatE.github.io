@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_coverpage.md",
+                "file": "_navbar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_coverpage"
+              "title": "_navbar"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "41d8e66f1c4926b4",
   "lastOpenFiles": [
-    "_navbar.md",
     "_sidebar.md",
+    "_coverpage.md",
+    "_navbar.md",
     "Format.md",
     "README.md",
-    "_coverpage.md",
     "C/数据类型.md",
     "OOP/OOM.md",
     "OOP",
