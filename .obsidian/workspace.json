@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_404"
             }
           }
         ]
@@ -186,18 +186,18 @@
   },
   "active": "41d8e66f1c4926b4",
   "lastOpenFiles": [
+    "primeddb/primeddb.md",
+    "_404.md",
+    "README.md",
     "_navbar.md",
     "_coverpage.md",
-    "primeddb/primeddb.md",
     "pic/d42766ea2a8b99e971e3cdb3dcdc1ca1.jpg",
-    "README.md",
     "pic",
     "LDST/ldst.md",
     "LDST",
     "primeddb",
     "projects/primeddb",
     "projects",
-    "_404.md",
     "_sidebar.md",
     "Format.md",
     "C/数据类型.md",
