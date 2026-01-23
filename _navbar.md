@@ -1,4 +1,4 @@
-* [**首页**](/README.md)
+* [首页](/README.md)
 * [PrimedDB](https://m4n1pulate.github.io/PrimedDB)
-* **LDST**
+* LDST
 	* [目录](/ldst/ldst.md)
