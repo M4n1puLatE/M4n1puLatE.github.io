@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_navbar"
+              "title": "README"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "41d8e66f1c4926b4",
   "lastOpenFiles": [
-    "primeddb/primeddb.md",
-    "_navbar.md",
     "README.md",
+    "_navbar.md",
+    "primeddb/primeddb.md",
     "LDST/ldst.md",
     "_coverpage.md",
     "LDST",

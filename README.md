@@ -32,5 +32,5 @@
 	- 在毕业设计中实现了基础SQL编译器。
 
 # 项目
-## 1. [PrimedDB](/primeddb/primeddb.md)（进行中）：基于质数哈希的新型关系型数据库。
+## 1. [PrimedDB](https://m4n1pulate.github.io/PrimedDB)（进行中）：基于质数哈希的新型关系型数据库。
 ## 2. [LDST](/ldst/ldst.md)（进行中）：自建数据结构库。
